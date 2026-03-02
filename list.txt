@@ -1,8 +1,7 @@
-serviettes
-maize flour
-milk
-sugar
-salt
-pepper
-rice 
-onion
+Biscuits
+Pringles
+Cookies
+Yogurt
+Juice
+Sweets
+Chocolate
